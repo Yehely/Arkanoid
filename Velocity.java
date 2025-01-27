@@ -1,4 +1,3 @@
-//206530552 Moshe Yehely Israel
 package geometry;
 /**
  * This method represents ball velocity in the game.
