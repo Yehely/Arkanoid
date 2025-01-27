@@ -1,4 +1,3 @@
-//206530552 Moshe Yehely Israel
 package geometry;
 /**
  * This class represents a point.
