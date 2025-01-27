@@ -1,6 +1,4 @@
-// 206530552 Moshe Yehely Israel.
 package gameEnv;
-
 import geometry.Ball;
 import geometry.Block;
 
