@@ -1,4 +1,3 @@
-//206530552 Moshe Yehely Israel
 package geometry;
 import java.awt.Color;
 import java.util.ArrayList;
