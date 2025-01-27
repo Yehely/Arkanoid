@@ -1,4 +1,3 @@
-// 206530552 Moshe Yehely Israel.
 package gameEnv;
 import biuoop.DrawSurface;
 import biuoop.GUI;
