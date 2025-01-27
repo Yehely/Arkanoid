@@ -1,4 +1,3 @@
-
 import gameEnv.Game;
 /**
  * This class is used to actually run the game through its main method.
