@@ -1,4 +1,3 @@
-//206530552 Moshe Yehely Israel.
 import gameEnv.Game;
 /**
  * This class is used to actually run the game through its main method.
